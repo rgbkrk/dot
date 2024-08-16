@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "dot"
+version = "0.3.0"
+description = "Providing context to models..."
+authors = ["Kyle Kelley <rgbkrk@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
